@@ -1,4 +1,5 @@
 # How the code works
+## [__script.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/game/script.rpy)
 We will first create the characters and the story-teller's dialogue by the command: `define character_symbol = character("character_name", color = "color_code")`
 ```python
 define l = Character("Luna", color = "#cb2915")
@@ -11,3 +12,7 @@ Next, we want to the character to appear on the screen so we generate the charac
 ```python
 image luna angry = Image("luna_angry.jpg")
 ```
+## [__chess_displayable.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/00-chess-engine/chess_displayable.rpy)
+...
+## [__engine.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/game/engine.rpy)
+...

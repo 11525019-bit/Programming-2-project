@@ -6,8 +6,6 @@
 [Click here to download](https://drive.google.com/file/d/1X_wyo1-P20KY4q5C--HA5Fc-iHxbbd9J/view?usp=drive_web)
 3. For people using PC(both Window and Linux):
 [Click here to download](https://drive.google.com/file/d/11uhsfHuqyqlimGTa8RUEtzPBctUSyTDA/view?usp=drive_web)
----
-This is the code for the game I made as a project for my programming method 2
 ## Short description about the game
 This game is a project for __programming method 2__ so the gameplay is _simple_ and you can play the game in _5-10 minutes_. In this game you will choose how to respond to the conversation of the characters, your choice will lead to _different endings_.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8df4ff06-4504-4671-b37f-dc19e0b80131" />

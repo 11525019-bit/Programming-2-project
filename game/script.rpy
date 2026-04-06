@@ -6,7 +6,7 @@
 define l = Character("Luna", color = "#cb2915")
 define m = Character("Martin", color = "#e7e7e7ff")
 define n = Character(None)
-define phone = Character("Phone", color = "#ffffff8e")
+define p = Character("Phone", color = "#ffffff8e")
 
 init:
     # Luna image define

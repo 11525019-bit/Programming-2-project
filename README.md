@@ -4,7 +4,7 @@
 [Click here to download](https://drive.google.com/file/d/1AkKJ2twO6AO4Xeupxhd-ClnKOdVIbPRE/view?usp=drive_web)
 2. For people using Linux:
 [Click here to download](https://drive.google.com/file/d/1X_wyo1-P20KY4q5C--HA5Fc-iHxbbd9J/view?usp=drive_web)
-3 For people using PC(both Window and Linux):
+3. For people using PC(both Window and Linux):
 [Click here to download](https://drive.google.com/file/d/11uhsfHuqyqlimGTa8RUEtzPBctUSyTDA/view?usp=drive_web)
 This is the code for the game I made as a project for my programming method 2
 ## Short description about the game

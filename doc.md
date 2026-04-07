@@ -102,6 +102,35 @@ There is a special section that is __quit__, this section helps the player to qu
 window hide
 ```
 ## [__chess_displayable.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/00-chess-engine/chess_displayable.rpy)
-...
+
 ## [__engine.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/game/engine.rpy)
-...
+This engine is generated to give players points(affection points). We will, first, let Ren'py know that we are coding on python by using the same command as mentioned on the Script.rpy:
+```python
+init -5 python:
+```
+Then we create `class point` to administrate the point. In that class, we have 3 function, first is generating the point system, then we will write a function to add point to players, lastly, we will write a function to return the total point.
+1. Generating point system:
+We will define the function first:
+```python
+def __init__(self):
+```
+But we want the point to always start at 0 so we add a command to that funtion:
+```python
+self.affection = 0
+```
+2. Point adding function:
+Similarly, the first thing to do is to define the function:
+```python
+def add(self, amount=10):
+```
+Then we will need a command to add point to the total point:
+```python
+self.affection = min(100, self.affection + amount)
+```
+However, we don't want the point to exceed 100 so `min(100, self.affection + amount)` is used to limit the total point.
+3. Returning the total point function:
+We will define the function and let the function return the total point:
+```python
+def total(self):
+    return self.affection
+```

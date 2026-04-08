@@ -157,15 +157,43 @@ We will define the function and let the function return the total point:
 def total(self):
     return self.affection
 ```
-## Music and sound effect source:
-tiếng đặt cốc: https://freesound.org/people/f4ngy/sounds/240783/
-tiếng chuông cửa hàng tiện lợi: https://pixabay.com/sound-effects/film-special-effects-doorbell-329311/
-tiếng gió: https://pixabay.com/sound-effects/soft-wind-477404/
-tiếng cây va chạm trong gió: https://pixabay.com/sound-effects/nature-soft-wind-leaves-316393/
-tiếng lá rơi(chắc v): https://pixabay.com/sound-effects/nature-leaves-rustling-236742/
-tiếng microwave: https://pixabay.com/sound-effects/household-turning-on-microwave-483312/
-tiếng báo thức: https://pixabay.com/sound-effects/alarm-clock-6402/
-tiếng chim buổi sáng: https://pixabay.com/sound-effects/birds-chirping-75156/
-tiếng ngáp (mới ngủ dậy): https://freesound.org/people/OwlStorm/sounds/151239/
-tiếng quẹt tính tiền: https://pixabay.com/sound-effects/film-special-effects-store-scanner-beep-90395/
+## Sound effect source:
+- [sound_convenience_store](https://pixabay.com/sound-effects/film-special-effects-doorbell-329311/)
+
+- [sound_cash_shut_register](https://freesound.org/people/atha89/sounds/79068/)
+
+- [sound_count_money](https://freesound.org/people/visionear/sounds/565513/)
+
+- [sound_cup_down](https://freesound.org/people/BillsFilms/sounds/330735/)
+
+- [sound_paper_money](https://freesound.org/people/LG/sounds/30231/)
+
+- [sound_coffee_down](https://freesound.org/people/f4ngy/sounds/240783/)
+
+- [sound_microwave](https://pixabay.com/sound-effects/household-turning-on-microwave-483312/)
+
+- [sound_wind](https://pixabay.com/sound-effects/soft-wind-477404/)
+
+- [sound_tree_after_wind](https://pixabay.com/sound-effects/nature-soft-wind-leaves-316393/)
+
+- [sound_yawn](https://freesound.org/people/OwlStorm/sounds/151239/)
+
+## Music source:
+- [street_music](https://youtu.be/DLcDmMtU0n8?si=t3unprH8VyIEvya_)
+
+- [dead_ending_music](https://pixabay.com/music/ambient-minimal-piano-and-cello-109312/)
+
+- [locked_ending_music](https://pixabay.com/vi/music/c%E1%BB%95-%C4%91i%E1%BB%83n-hi%E1%BB%87n-%C4%91%E1%BA%A1i-romantic-piano-music-249011/)
+
+- [ending_music](https://pixabay.com/music/solo-piano-thien-nhien-va-am-thanh-nhac-khong-loi-nhe-nhang-piano-bgm-227556/)
+
 ## Images:
+- [bg_street](https://www.pinterest.com/pin/1120974163519356256/)
+
+- [bg_convenience_store](https://www.pinterest.com/pin/1120974163519356282/)
+
+- [bg_park](https://www.pinterest.com/pin/1120974163519330920/)
+
+- [bg_room](https://ko-fi.com/s/f28d2e3b8b)
+
+- All Luna images: Nano Banana

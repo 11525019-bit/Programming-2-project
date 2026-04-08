@@ -1,5 +1,7 @@
 # How the code works
 ## [__script.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/game/script.rpy)
+This file is where all the dialogs, images and sound appear when you play.
+
 We will first create the characters and the story-teller's dialogue by the command: `define character_symbol = character("character_name", color = "color_code")`
 ```python
 define l = Character("Luna", color = "#cb2915")
@@ -101,10 +103,38 @@ There is a special section that is __quit__, this section helps the player to qu
 ```python
 window hide
 ```
-## [__chess_displayable.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/00-chess-engine/chess_displayable.rpy)
 
+_____________________________________________________________________________________________________________________________________________________
+
+## [__chess_displayable.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/00-chess-engine/chess_displayable.rpy)
+This file is use to generate screen for a chess game and play on it.
+
+We will first define the path of the file we are using.
+- We define each part of each folder where the code have to go through to get the file.
+```python
+define Chess_File = '00-chess-engine/'
+define Image_File = 'images/'
+define Audio_File = 'audio/'
+```
+- Then add each step to get into the file location.
+```python
+define Chessboard_Image = Chess_File + Image_File + 'chessboard.png'
+define Move_Audio = Chess_File + Audio_File + 'move.wav'
+```
+
+Then we will define the screen board size.
+```python
+define Screen_Width = 1280
+define Screen_Height = 720
+```
+
+
+
+_____________________________________________________________________________________________________________________________________________________
 ## [__engine.rpy__](https://github.com/11525019-bit/Programming-2-project/blob/main/game/engine.rpy)
-This engine is generated to give players points(affection points). We will, first, let Ren'py know that we are coding on python by using the same command as mentioned on the Script.rpy:
+This engine is generated to give players points(affection points). 
+
+We will, first, let Ren'py know that we are coding on python by using the same command as mentioned on the Script.rpy:
 ```python
 init -5 python:
 ```

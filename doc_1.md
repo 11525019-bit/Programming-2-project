@@ -157,3 +157,15 @@ We will define the function and let the function return the total point:
 def total(self):
     return self.affection
 ```
+## Music and sound effect source:
+tiếng đặt cốc: https://freesound.org/people/f4ngy/sounds/240783/
+tiếng chuông cửa hàng tiện lợi: https://pixabay.com/sound-effects/film-special-effects-doorbell-329311/
+tiếng gió: https://pixabay.com/sound-effects/soft-wind-477404/
+tiếng cây va chạm trong gió: https://pixabay.com/sound-effects/nature-soft-wind-leaves-316393/
+tiếng lá rơi(chắc v): https://pixabay.com/sound-effects/nature-leaves-rustling-236742/
+tiếng microwave: https://pixabay.com/sound-effects/household-turning-on-microwave-483312/
+tiếng báo thức: https://pixabay.com/sound-effects/alarm-clock-6402/
+tiếng chim buổi sáng: https://pixabay.com/sound-effects/birds-chirping-75156/
+tiếng ngáp (mới ngủ dậy): https://freesound.org/people/OwlStorm/sounds/151239/
+tiếng quẹt tính tiền: https://pixabay.com/sound-effects/film-special-effects-store-scanner-beep-90395/
+## Images:

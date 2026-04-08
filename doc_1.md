@@ -178,6 +178,18 @@ def total(self):
 
 - [sound_yawn](https://freesound.org/people/OwlStorm/sounds/151239/)
 
+- [sound_walking_in_house](https://www.zapsplat.com/sound-effect-packs/footsteps-on-boardwalk/)
+
+- [sound_walking_on_leaf](https://www.zapsplat.com/sound-effect-packs/footsteps-on-dried-leaves-and-twigs/)
+
+- [sound_walking_on_rock](https://www.zapsplat.com/sound-effect-packs/footsteps-on-stony-path/)
+
+- [sound_walking_on_street](https://www.zapsplat.com/sound-effect-packs/leather-sneaker-footsteps/)
+
+- [sound_clothes](https://www.zapsplat.com/music/hi-vis-jacket-single-shake-version-1/)
+
+- [sound_small_ppl](https://www.zapsplat.com/music/networking-event-indoors-15-20-people-talking-in-english-some-words-are-distinguishable/)
+
 ## Music source:
 - [street_music](https://youtu.be/DLcDmMtU0n8?si=t3unprH8VyIEvya_)
 

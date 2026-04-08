@@ -3,18 +3,18 @@
 This file is use to generate screen for a chess game and play on it.
 
 ### Table of Contents
-- [Define](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#define)
-- [Style](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#style)
-- [Screen](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#screen)
-  - [Game Status](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#left-top-panel--game-status)
-  - [Controls](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#left-bottom-panel--controls)
-  - [The Chess Board](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#middle-panel--the-chess-board)
-  - [Promotion UI](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#right-panel--promotion-ui)
-- [Python Classes](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#python-classes)
-  - [Hover Displayable](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#hoverdisplayable)
-  - [Chess Displayable](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#chessdisplayable)
-  - [Helper Methods](https://github.com/11525019-bit/Programming-2-project/edit/main/doc_2.md#helper-methods)
-- [Helper Functions](#helper-functions)
+- [Define](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#define)
+- [Style](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#style)
+- [Screen](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#screen)
+  - [Game Status](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#left-top-panel--game-status)
+  - [Controls](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#left-bottom-panel--controls)
+  - [The Chess Board](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#middle-panel--the-chess-board)
+  - [Promotion UI](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#right-panel--promotion-ui)
+- [Python Classes](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#python-classes)
+  - [Hover Displayable](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#hoverdisplayable)
+  - [Chess Displayable](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#chessdisplayable)
+  - [Helper Methods](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#helper-methods)
+- [Helper Functions](https://github.com/11525019-bit/Programming-2-project/blob/main/doc_2.md#helper-functions)
 
 
 ### __Define__

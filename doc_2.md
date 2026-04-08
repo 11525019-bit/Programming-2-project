@@ -326,7 +326,7 @@ ________________________________________________________________________________
 
 `ChessDisplayable` is the core of the chess engine. It handles board rendering, player input, AI moves, game state tracking, and audio.
 
-#### `__init__`
+`__init__`
 
 ```python
 def __init__(self, fen=Start_FEN, player_color=None, depth=10):
@@ -372,7 +372,7 @@ Promotion state, overall game status, and the winner are all initialized to `Non
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### `render`
+`render`
 
 ```python
 def render(self, width, height, st, at):
@@ -421,7 +421,7 @@ Loops over every square on the board. For each square that has a piece, it looks
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### `event`
+`event`
 
 This method handles all player input.
 

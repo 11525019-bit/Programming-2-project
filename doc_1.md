@@ -195,6 +195,8 @@ def total(self):
 
 - [street_music](https://youtu.be/DLcDmMtU0n8?si=t3unprH8VyIEvya_)
 
+- [convenience_store_music](https://www.youtube.com/watch?v=uDNCzaNavyc)
+
 - [park_music](https://pixabay.com/music/solo-piano-thi%c3%aan-nhi%c3%aan-v%c3%a0-%c3%a2m-thanh-nh%e1%ba%a1c-kh%c3%b4ng-l%e1%bb%9di-nh%e1%ba%b9-nh%c3%a0ng-piano-bgm-227556/)
 
 - [dead_ending_music](https://pixabay.com/music/ambient-minimal-piano-and-cello-109312/)

@@ -191,7 +191,11 @@ def total(self):
 - [sound_small_ppl](https://www.zapsplat.com/music/networking-event-indoors-15-20-people-talking-in-english-some-words-are-distinguishable/)
 
 ## Music source:
+- [Beginning_music](https://pixabay.com/vi/music/c%e1%bb%95-%c4%91i%e1%bb%83n-hi%e1%bb%87n-%c4%91%e1%ba%a1i-romantic-piano-jazz-291507/)
+
 - [street_music](https://youtu.be/DLcDmMtU0n8?si=t3unprH8VyIEvya_)
+
+- [park_music](https://pixabay.com/music/solo-piano-thi%c3%aan-nhi%c3%aan-v%c3%a0-%c3%a2m-thanh-nh%e1%ba%a1c-kh%c3%b4ng-l%e1%bb%9di-nh%e1%ba%b9-nh%c3%a0ng-piano-bgm-227556/)
 
 - [dead_ending_music](https://pixabay.com/music/ambient-minimal-piano-and-cello-109312/)
 
